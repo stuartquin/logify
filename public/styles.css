@@ -1,0 +1,30 @@
+body {
+    background-image: url('/billie_holiday.png');
+}
+
+.logs {
+    overflow-x:scroll;
+    margin-top: 100px;
+    padding: 5px;
+    padding-bottom: 1200px;
+    margin-bottom:  20px;
+
+    background-color: #FFF;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDD;
+}
+
+#filter_field {
+    height:    32px;
+    font-size: 22px;
+}
+
+.filtered {
+    font-size: 1.1em;
+}
+
+.line {
+    margin-top: 10px;
+}
