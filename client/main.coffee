@@ -79,7 +79,7 @@ class LogLine
     else
       @line_class = "muted"
 
-  render: (callback) ->
+  render: (index, callback) ->
     @highlight_type()
     @highlight_http_code()
     @highlight_filter()
@@ -89,6 +89,9 @@ class LogLine
 
     if @format_sql
       @highlight_sql()
+
+    if line_count % 2 == 0
+      @line_class += " striped"
 
     output  = $("<div class='line #{@line_class}'>")
     output.html @line
@@ -105,7 +108,7 @@ $( document ).ready ()->
   socket.on "log", (data) ->
     logLine = new LogLine(data, filters)
 
-    logLine.render (formatted) ->
+    logLine.render line_count, (formatted) ->
       $( "#log_output" ).prepend formatted
       formatted.find("pre code").each (i, e) ->
         hljs.highlightBlock e

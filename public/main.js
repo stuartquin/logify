@@ -117,7 +117,7 @@
       }
     };
 
-    LogLine.prototype.render = function(callback) {
+    LogLine.prototype.render = function(index, callback) {
       var output;
       this.highlight_type();
       this.highlight_http_code();
@@ -127,6 +127,9 @@
       }
       if (this.format_sql) {
         this.highlight_sql();
+      }
+      if (line_count % 2 === 0) {
+        this.line_class += " striped";
       }
       output = $("<div class='line " + this.line_class + "'>");
       output.html(this.line);
@@ -148,7 +151,7 @@
     return socket.on("log", function(data) {
       var logLine;
       logLine = new LogLine(data, filters);
-      return logLine.render(function(formatted) {
+      return logLine.render(line_count, function(formatted) {
         $("#log_output").prepend(formatted);
         formatted.find("pre code").each(function(i, e) {
           return hljs.highlightBlock(e);

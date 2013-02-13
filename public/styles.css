@@ -27,6 +27,10 @@ body {
     font-size: 1.1em;
 }
 
+.striped {
+    background-color: #F7F7F7;
+}
+
 .line {
     margin-top: 12px;
 }
