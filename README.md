@@ -6,10 +6,14 @@ Web based log viewer
 * Remote Log viewer
 * Simple 'grep' like filters
 
-# Why?
+## Why?
 
 Allow other team members to view the logs of your locally running dev
 environment.
+
+## Installation
+
+`npm install .`
 
 ## Usage
 
