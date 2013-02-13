@@ -73,7 +73,7 @@ class LogLine
         return "<strong class='text-success'>"+match+"</strong>"
       @line_class = "filtered"
     else
-      @line_class = "muted"
+      @line_class = "muted-line"
 
   render: (index, callback) ->
     @highlight_type()

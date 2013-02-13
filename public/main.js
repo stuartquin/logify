@@ -108,7 +108,7 @@
         });
         return this.line_class = "filtered";
       } else {
-        return this.line_class = "muted";
+        return this.line_class = "muted-line";
       }
     };
 
