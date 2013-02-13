@@ -22,17 +22,18 @@
         </div>
         <div class="row">
           <div class="span8">
-            <input class="span8" type="text" id="filter_field" 
+            <input type="text" id="filter_field" 
                  placeholder="Filter Results"/>
           </div>
-          <div class="span4">
-            <div class="btn-group span2" data-toggle="buttons-checkbox">
-              <button type="button" class="btn btn-success" id="sql_toggle">SQL</button>
-              <button type="button" class="btn btn-success" id="json_toggle">JSON</button>
-            </div>
-            <div class="span1">
-              <button id="clear_logs" class="btn span1 pull-right">Clear</button>
-            </div>
+          <div class="btn-group span2" data-toggle="buttons-checkbox">
+            <button type="button" class="btn btn-info" id="sql_toggle">SQL</button>
+            <button type="button" class="btn btn-info" id="json_toggle">JSON</button>
+          </div>
+          <div class="span2">
+            <button id="clear_logs" class="buttons btn pull-right"
+               alt="Clear All Logs"><i class="icon-trash"></i></button>
+            <button id="pause_logs" class="buttons btn pull-right"
+               alt="Pause Logs"><i class="icon-pause"></i></button> 
           </div>
         </div><!--/.nav-collapse -->
       </div>
@@ -40,6 +41,10 @@
   </div>
 
   <div class="container wrapper">
+    <div class="row dummy">
+    </div>
+    <div class="row logs" id="filtered_output">
+    </div>
     <div class="row logs" id="log_output">
     </div>
   </div>

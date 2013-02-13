@@ -4,8 +4,6 @@ fs        = require "fs"
 
 class exports.Index
 
-  constructor: (config) ->
-
   render: ( req, res ) =>
     res.render "index",
       user_data:      false

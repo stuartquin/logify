@@ -4,9 +4,6 @@ body {
 
 .logs {
     overflow-x:scroll;
-    margin-top: 100px;
-    padding: 5px;
-    padding-bottom: 1200px;
     margin-bottom:  20px;
 
     background-color: #FFF;
@@ -18,13 +15,33 @@ body {
     font-family: monospace, "Andale Mono", courier, sans;
 }
 
+#filtered_output{
+    margin-top: 100px;
+    display: none;
+}
+
+#log_output {
+    padding: 5px;
+    padding-bottom: 1200px;
+}
+
+.dummy {
+    height: 100px;
+    width: 100%;
+}
+
 #filter_field {
-    height:    32px;
+    height:    28px;
     font-size: 22px;
+    width:     100%;
 }
 
 .filtered {
     font-size: 1.1em;
+}
+
+.buttons {
+    margin-left: 5px;
 }
 
 .striped {

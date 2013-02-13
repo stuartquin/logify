@@ -9,10 +9,6 @@ class Filters
       if evt.charCode == 13
         @active_filter = field.val()
 
-    $("#clear_logs").click () ->
-      $("#log_output").html("")
-      line_count = 0
-
     $("#sql_toggle").button "toggle"
     $("#json_toggle").button "toggle"
 
@@ -90,30 +86,56 @@ class LogLine
     if @format_sql
       @highlight_sql()
 
-    if line_count % 2 != 0
+    if index % 2 != 0
       @line_class += " striped"
 
     output  = $("<div class='line #{@line_class}'>")
     output.html @line
     callback output
 
-line_count = 0
-max_lines  = 1000
+class LogPanel
+  # Maps from codes to bootstrap label classes
+  @label_map =
+    error: "important"
+    debug: "info"
+
+  constructor: (@id, @filters)->
+    @panel_el = $(@id)
+    @line_count = 0
+    @max_lines  = 1000
+
+  add_line: (data) ->
+    logLine = new LogLine(data, @filters)
+
+    logLine.render @line_count, (formatted) =>
+      @panel_el.prepend formatted
+      formatted.find("pre code").each (i, e) ->
+        hljs.highlightBlock e
+
+      @line_count++
+      if @line_count > @max_lines
+        @panel_el.find("div:last-child").remove()
+
+  clear: () ->
+    @line_count = 0
+    @panel_el.html("")
+
 
 $( document ).ready ()->
   socket = io.connect()
 
-  filters = new Filters()
+  filters     = new Filters()
+  all_lines   = new LogPanel("#log_output", filters)
+  logs_paused = false
+
+  $("#clear_logs").click () =>
+    all_lines.clear()
+  
+  $("#pause_logs").click () =>
+    $("#pause_logs").find("i").toggleClass("icon-pause").toggleClass "icon-play"
+    $("#pause_logs").toggleClass("btn-success")
+    logs_paused = !logs_paused
 
   socket.on "log", (data) ->
-    logLine = new LogLine(data, filters)
-
-    logLine.render line_count, (formatted) ->
-      $( "#log_output" ).prepend formatted
-      formatted.find("pre code").each (i, e) ->
-        hljs.highlightBlock e
-
-      line_count++
-      if line_count > max_lines
-        $( "#log_output div:last-child" ).remove()
-
+    if !logs_paused
+      all_lines.add_line data
