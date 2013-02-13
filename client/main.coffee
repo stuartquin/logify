@@ -28,16 +28,23 @@ class Filters
 
 
 class LogLine
+
+  # Maps from codes to bootstrap label classes
+  @label_map =
+    error: "important"
+    debug: "info"
+
   constructor: (@line, @filters)->
     @active_filter = @filters.active_filter
     @format_json = @filters.json_enabled
     @format_sql  = @filters.sql_enabled
-    console.log @format_sql
     @line_class  = ""
 
   highlight_type: () =>
-    @line = @line.replace  /(WARNING|INFO|ERROR)/i, ( match, group1 ) ->
-      return "<strong class='text-"+group1.toLowerCase()+"'>"+match+"</strong>"
+    @line = @line.replace  /(DEBUG|WARNING|INFO|ERROR)/i, ( match, group1 ) ->
+      label = group1.toLowerCase()
+      label = LogLine.label_map[label] or label
+      return "<strong class='label label-"+label+"'>"+match+"</strong>"
 
   highlight_http_code: () =>
     @line = @line.replace  /GET|POST|PUT|DELETE/, (match) ->

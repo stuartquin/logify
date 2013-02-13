@@ -42,6 +42,11 @@
 
   LogLine = (function() {
 
+    LogLine.label_map = {
+      error: "important",
+      debug: "info"
+    };
+
     function LogLine(line, filters) {
       this.line = line;
       this.filters = filters;
@@ -58,13 +63,15 @@
       this.active_filter = this.filters.active_filter;
       this.format_json = this.filters.json_enabled;
       this.format_sql = this.filters.sql_enabled;
-      console.log(this.format_sql);
       this.line_class = "";
     }
 
     LogLine.prototype.highlight_type = function() {
-      return this.line = this.line.replace(/(WARNING|INFO|ERROR)/i, function(match, group1) {
-        return "<strong class='text-" + group1.toLowerCase() + "'>" + match + "</strong>";
+      return this.line = this.line.replace(/(DEBUG|WARNING|INFO|ERROR)/i, function(match, group1) {
+        var label;
+        label = group1.toLowerCase();
+        label = LogLine.label_map[label] || label;
+        return "<strong class='label label-" + label + "'>" + match + "</strong>";
       });
     };
 
