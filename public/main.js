@@ -128,7 +128,7 @@
       if (this.format_sql) {
         this.highlight_sql();
       }
-      if (line_count % 2 === 0) {
+      if (line_count % 2 !== 0) {
         this.line_class += " striped";
       }
       output = $("<div class='line " + this.line_class + "'>");

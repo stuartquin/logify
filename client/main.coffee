@@ -90,7 +90,7 @@ class LogLine
     if @format_sql
       @highlight_sql()
 
-    if line_count % 2 == 0
+    if line_count % 2 != 0
       @line_class += " striped"
 
     output  = $("<div class='line #{@line_class}'>")

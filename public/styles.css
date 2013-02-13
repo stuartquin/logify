@@ -31,6 +31,10 @@ body {
     background-color: #F7F7F7;
 }
 
+pre {
+    margin-top: 6px;
+}
+
 .line {
     margin-top: 12px;
 }
