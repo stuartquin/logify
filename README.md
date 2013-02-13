@@ -5,9 +5,6 @@ Web based log viewer
 * Format JSON and SQL output
 * Remote Log viewer
 * Simple 'grep' like filters
-* 
-
-_Warning:_ It's probably not a great idea to make your logs available on a publicly accessible URL
 
 ## Why?
 
