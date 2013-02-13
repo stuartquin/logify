@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git://github.com/stuartquin/logify.git"
   },
+  "dependencies": {
+    "socket.io": "0.9.9",
+    "coffee-script": "~1.1.2",
+    "express": "3.0.0rc2",
+    "tail": "0.2.4",
+    "ejs": "0.8.3",
+    "underscore": "~1.1.7"
+  },
   "keywords": [
     "Logs",
     "socket.io",
