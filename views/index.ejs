@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/jquery-ui-1.8.22.custom.css" />
     <link rel="stylesheet" href="/styles.css" />
-    <link rel="stylesheet" href="/styles/default.css" />
+    <link rel="stylesheet" href="/highlight/styles/default.css" />
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
   </head>
 
@@ -23,9 +23,19 @@
           <a class="brand" href="#">Logify</a>
         </div>
         <div class="row">
-          <input class="span11" type="text" id="filter_field" 
+          <div class="span8">
+            <input class="span8" type="text" id="filter_field" 
                  placeholder="Filter Results"/>
-          <button id="clear_logs" class="btn span1 pull-right">Clear</button>
+          </div>
+          <div class="span4">
+            <div class="btn-group span2" data-toggle="buttons-checkbox">
+              <button type="button" class="btn btn-success" id="sql_toggle">SQL</button>
+              <button type="button" class="btn btn-success" id="json_toggle">JSON</button>
+            </div>
+            <div class="span1">
+              <button id="clear_logs" class="btn span1 pull-right">Clear</button>
+            </div>
+          </div>
         </div><!--/.nav-collapse -->
       </div>
     </div>
@@ -39,21 +49,9 @@
 <script type='text/javascript' src='/jquery.js'></script>
 <script type='text/javascript' src='/async.js'></script>
 <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="highlight.pack.js"></script>
+<script type="text/javascript" src="/highlight/highlight.pack.js"></script>
 <script src="/socket.io/socket.io.js"></script>
 <script src="main.js"></script>
-
-<!--
-<script type='text/javascript' src='/jquery-ui.js'></script>
-<script type='text/javascript' src='/lib/editor.js'></script>
-<script type='text/javascript' src='/lib/highlight.js'></script>
-<script type='text/javascript' src='/lib/comments.js'></script>
-<script type='text/javascript' src='/lib/controls.js'></script>
-<script type="text/javascript" src="/lib/dateformat.js"></script>
-<script type="text/javascript" src="/lib/sidebar.js"></script>
-<script type='text/javascript' src='/lib/ui.js'></script>
-<script type='text/javascript' src='/lib/load_tests.js'></script>
--->
 
   </body>
 </html>

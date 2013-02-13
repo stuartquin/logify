@@ -9,6 +9,8 @@
       var field,
         _this = this;
       this.active_filter = "";
+      this.json_enabled = true;
+      this.sql_enabled = true;
       field = $("#filter_field");
       field.keypress(function(evt) {
         if (evt.charCode === 13) {
@@ -20,6 +22,18 @@
         $("#log_output").html("");
         return line_count = 0;
       });
+      $("#sql_toggle").button("toggle");
+      $("#json_toggle").button("toggle");
+      $("#sql_toggle").click(function(e) {
+        e.stopImmediatePropagation();
+        $("#sql_toggle").toggleClass("active");
+        return _this.sql_enabled = !_this.sql_enabled;
+      });
+      $("#json_toggle").click(function(e) {
+        e.stopImmediatePropagation();
+        $("#json_toggle").toggleClass("active");
+        return _this.json_enabled = !_this.json_enabled;
+      });
     }
 
     return Filters;
@@ -28,9 +42,9 @@
 
   LogLine = (function() {
 
-    function LogLine(line, active_filter) {
+    function LogLine(line, filters) {
       this.line = line;
-      this.active_filter = active_filter;
+      this.filters = filters;
       this.highlight_filter = __bind(this.highlight_filter, this);
 
       this.highlight_sql = __bind(this.highlight_sql, this);
@@ -41,13 +55,16 @@
 
       this.highlight_type = __bind(this.highlight_type, this);
 
-      this.format_json = true;
+      this.active_filter = this.filters.active_filter;
+      this.format_json = this.filters.json_enabled;
+      this.format_sql = this.filters.sql_enabled;
+      console.log(this.format_sql);
       this.line_class = "";
     }
 
     LogLine.prototype.highlight_type = function() {
       return this.line = this.line.replace(/(WARNING|INFO|ERROR)/i, function(match, group1) {
-        return "<span class='text-" + group1.toLowerCase() + "'>" + match + "</span>";
+        return "<strong class='text-" + group1.toLowerCase() + "'>" + match + "</strong>";
       });
     };
 
@@ -72,9 +89,11 @@
     };
 
     LogLine.prototype.highlight_sql = function() {
-      return this.line = this.line.replace(/(SELECT .+ FROM .+(WHERE)?)/gi, function(match) {
+      this.line = this.line.replace(/(SELECT .+ FROM .+(WHERE)?)/gi, function(match) {
         return "<pre><code class='sql'>" + match + "</code></pre>";
       });
+      this.line = this.line.replace(/\\n/gi, "<br />");
+      return this.line = this.line.replace(/\\t/gi, "  ");
     };
 
     LogLine.prototype.highlight_filter = function() {
@@ -98,6 +117,8 @@
       this.highlight_filter();
       if (this.format_json) {
         this.highlight_json();
+      }
+      if (this.format_sql) {
         this.highlight_sql();
       }
       output = $("<div class='line " + this.line_class + "'>");
@@ -119,7 +140,7 @@
     filters = new Filters();
     return socket.on("log", function(data) {
       var logLine;
-      logLine = new LogLine(data, filters.active_filter);
+      logLine = new LogLine(data, filters);
       return logLine.render(function(formatted) {
         $("#log_output").prepend(formatted);
         formatted.find("pre code").each(function(i, e) {

@@ -1,6 +1,9 @@
 class Filters
   constructor: () ->
     @active_filter = ""
+    @json_enabled  = true
+    @sql_enabled   = true
+
     field = $("#filter_field")
     field.keypress (evt) =>
       if evt.charCode == 13
@@ -10,14 +13,31 @@ class Filters
       $("#log_output").html("")
       line_count = 0
 
+    $("#sql_toggle").button "toggle"
+    $("#json_toggle").button "toggle"
+
+    $("#sql_toggle").click (e) =>
+      e.stopImmediatePropagation()
+      $("#sql_toggle").toggleClass "active"
+      @sql_enabled = !@sql_enabled
+    
+    $("#json_toggle").click (e) =>
+      e.stopImmediatePropagation()
+      $("#json_toggle").toggleClass "active"
+      @json_enabled = !@json_enabled
+
+
 class LogLine
-  constructor: (@line, @active_filter)->
-    @format_json = true
+  constructor: (@line, @filters)->
+    @active_filter = @filters.active_filter
+    @format_json = @filters.json_enabled
+    @format_sql  = @filters.sql_enabled
+    console.log @format_sql
     @line_class  = ""
 
   highlight_type: () =>
     @line = @line.replace  /(WARNING|INFO|ERROR)/i, ( match, group1 ) ->
-      return "<span class='text-"+group1.toLowerCase()+"'>"+match+"</span>"
+      return "<strong class='text-"+group1.toLowerCase()+"'>"+match+"</strong>"
 
   highlight_http_code: () =>
     @line = @line.replace  /GET|POST|PUT|DELETE/, (match) ->
@@ -38,6 +58,9 @@ class LogLine
     @line = @line.replace /(SELECT .+ FROM .+(WHERE)?)/gi, (match) ->
       return "<pre><code class='sql'>#{match}</code></pre>"
 
+    @line = @line.replace /\\n/gi, "<br />"
+    @line = @line.replace /\\t/gi, "  "
+
   highlight_filter: () =>
     if @active_filter == ""
       return
@@ -56,6 +79,8 @@ class LogLine
 
     if @format_json
       @highlight_json()
+
+    if @format_sql
       @highlight_sql()
 
     output  = $("<div class='line #{@line_class}'>")
@@ -71,7 +96,7 @@ $( document ).ready ()->
   filters = new Filters()
 
   socket.on "log", (data) ->
-    logLine = new LogLine(data, filters.active_filter)
+    logLine = new LogLine(data, filters)
 
     logLine.render (formatted) ->
       $( "#log_output" ).prepend formatted
