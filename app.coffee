@@ -27,13 +27,15 @@ class exports.App
 
     @app.get  "/", index.render
 
-app = new exports.App(app)
-server.listen 8080
-
 main_socket = null
-
 filename = process.argv[2]
 tail     = spawn "tail", ["-f", filename]
 
 tail.stdout.on 'data', (data) ->
   io.sockets.emit 'log', data.toString('utf8')
+
+port = process.argv[3] or 8080
+app = new exports.App(app)
+server.listen port
+
+console.log "Listening to #{filename} on #{port}"
