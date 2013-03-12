@@ -1,0 +1,789 @@
+{"level":"info","message":"Hello World","timestamp":"2013-03-12T17:05:12.793Z"}
+{"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:06:51.447Z"}
+{"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:39:51.075Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:40:30.520Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:43:38.390Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:43:39.795Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:43:46.898Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:43:49.029Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:52:43.806Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:53:52.962Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:53:54.360Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:53:54.816Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:53:55.242Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:16.186Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:16.919Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:17.351Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:17.694Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:18.052Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:25.057Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:28.073Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:28.813Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:29.197Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:29.578Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T17:55:29.983Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:01:00.502Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:01:23.608Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:01:40.277Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:01:40.292Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:02:06.416Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.439Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.465Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.486Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.493Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.498Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.519Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.522Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.535Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.546Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.556Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.561Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.575Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.579Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.597Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.598Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.616Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.623Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.645Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.672Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.683Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.699Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.718Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.741Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.773Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.799Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.824Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.844Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.855Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.864Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.864Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.872Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.895Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.901Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.917Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.926Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.931Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.956Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.976Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:06.984Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.005Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.020Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.026Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.054Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.061Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.090Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.109Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.113Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.118Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.138Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.146Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.153Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.170Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.186Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.203Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.206Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.228Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.253Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.254Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.261Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.279Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.292Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.295Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.296Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.317Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.337Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.366Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.379Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.404Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.408Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.419Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.426Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.427Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.452Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.480Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.504Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.525Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.537Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.550Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.559Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.562Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.583Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.585Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.596Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.614Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.635Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.656Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.657Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.675Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.692Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.694Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.707Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.717Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.721Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.749Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.772Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.778Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.799Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.825Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.839Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.856Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.863Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.865Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.865Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.884Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.903Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.917Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.925Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.940Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.954Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.956Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.966Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:07.982Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.009Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.036Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.039Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.043Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.064Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.088Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.116Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.137Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.153Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.166Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.182Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.195Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.207Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.213Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.228Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.246Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.269Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.288Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.302Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.329Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.333Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.344Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.362Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:08.385Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:02:29.376Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:29.807Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:30.124Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:30.151Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:30.838Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:31.332Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:31.763Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:32.072Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:32.478Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:33.084Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:33.302Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:33.447Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:33.971Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:33.984Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:34.533Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:34.911Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:35.365Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:35.846Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:36.374Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:36.735Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:37.118Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:37.579Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:37.757Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:38.245Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:38.853Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.019Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.174Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.414Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.692Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.764Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:39.908Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:40.055Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:40.096Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:40.302Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:40.579Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:40.895Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:41.321Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:41.405Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:41.918Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:42.393Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:42.438Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:42.979Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:43.108Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:43.542Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:43.725Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:44.071Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:44.214Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:44.637Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:45.335Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:45.956Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:46.115Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:46.299Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:46.895Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:02:47.558Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:03:52.373Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:53.057Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:53.651Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:53.779Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:54.244Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:54.491Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:55.135Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:55.670Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:56.341Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:56.623Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:57.193Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:03:57.336Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:57.856Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:58.197Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:58.571Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:59.246Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:59.818Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:03:59.820Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:03:59.889Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:04:00.028Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:04:00.588Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:04:01.185Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:05:05.222Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:05.380Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:06.015Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:06.116Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:06.812Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:06.815Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:07.217Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:07.305Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:07.901Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:08.203Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:08.438Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:08.439Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:08.494Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:09.040Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:09.105Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:09.301Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:09.552Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:09.691Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:09.768Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:10.042Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:10.620Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:11.086Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:11.156Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:11.225Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:11.864Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:11.998Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:12.086Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:12.227Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:12.629Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:12.974Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:13.009Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:13.202Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:05:13.334Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:13.696Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:14.097Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:14.604Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:15.177Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:15.516Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:16.038Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:16.328Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:05:16.884Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:16.986Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:17.669Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:05:18.357Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:10:03.831Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:04.414Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:04.776Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:05.099Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:05.752Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:05.825Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:06.371Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:06.869Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:07.549Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:07.641Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:07.907Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:08.324Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:08.559Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:08.927Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:09.499Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:10.165Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:10.520Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:10.971Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:11.200Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:11.812Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:11.903Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:12.406Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:12.810Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:13.476Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:13.790Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:14.170Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:14.374Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:14.864Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:15.392Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:15.400Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:15.709Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:16.327Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:16.444Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:16.681Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:17.234Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:17.455Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:17.598Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:18.092Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:18.310Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:18.749Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:19.426Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:19.704Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:20.343Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:20.877Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:21.220Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:21.879Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:22.182Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:22.300Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:22.315Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:22.506Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:23.045Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:23.273Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:23.793Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:23.804Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:24.448Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:24.589Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:24.729Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:25.424Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:25.997Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:26.313Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:26.455Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:26.794Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:27.159Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:27.223Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:27.529Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:27.776Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:27.996Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:28.032Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:28.222Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:28.743Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:28.960Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:29.505Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:29.690Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:30.046Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:30.525Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:30.706Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:30.822Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:31.133Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:31.325Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:31.835Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:32.473Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:32.663Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:32.915Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:33.562Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:34.178Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:34.829Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:35.037Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:35.647Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:35.693Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:36.171Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:36.662Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:36.758Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:37.242Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:37.507Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:37.974Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:38.332Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:38.825Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:39.004Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:39.486Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:40.173Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:40.280Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:40.436Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:40.876Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:41.107Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:41.192Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:41.787Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:42.095Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:42.418Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:43.117Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:43.420Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:44.090Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:44.268Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:44.357Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:44.938Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:45.386Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:45.883Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:46.182Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:46.663Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:47.075Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:47.709Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:48.217Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:48.909Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:49.240Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:49.869Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:49.933Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:49.940Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:50.046Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:50.205Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:50.883Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:51.063Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:51.719Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:52.317Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:52.858Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:53.415Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:53.957Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:53.967Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:54.247Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:54.852Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:55.178Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:10:55.498Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:56.122Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:56.331Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:56.408Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:57.064Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:57.267Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:10:57.315Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:57.909Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:58.418Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:58.597Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:58.873Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:59.449Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:10:59.765Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:00.104Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:00.637Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:01.116Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:01.373Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:01.934Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:02.511Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:02.618Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:03.022Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:03.472Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:04.043Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:04.738Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:04.760Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:04.897Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:05.020Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:05.167Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:05.401Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:05.686Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:06.302Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:06.774Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:07.427Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:07.971Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:08.266Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:08.410Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:08.972Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:09.543Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:09.909Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:10.459Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:11.024Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:11.323Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:11.986Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:12.509Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:12.996Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:13.383Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:13.525Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:13.723Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:14.340Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:14.463Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:15.062Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:15.557Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:15.666Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:15.730Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:15.812Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:16.365Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:16.395Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:16.536Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:16.982Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:17.458Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:17.562Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:17.655Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:17.793Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:17.835Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:18.519Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:18.616Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:18.660Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:18.805Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:18.979Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:19.117Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:19.525Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:19.546Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:20.074Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:20.515Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:20.834Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:21.269Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:21.663Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:22.162Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:22.603Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:22.756Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:22.857Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:23.327Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:23.764Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:24.266Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:24.541Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:24.798Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:25.361Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:25.705Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:25.715Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:26.152Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:26.546Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:26.862Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:27.031Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:27.657Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:28.063Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:28.361Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:28.709Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:28.899Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:29.250Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:29.301Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:29.700Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:30.029Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:30.152Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:30.323Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:30.715Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:30.950Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:31.115Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:31.116Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:31.658Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:31.766Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:32.343Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:32.515Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:32.800Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:33.304Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:33.439Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:34.053Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:34.529Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:34.557Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:34.942Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:35.397Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:35.798Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:36.008Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:36.040Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:36.379Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:37.027Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:37.688Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:37.947Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:38.181Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:38.410Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:38.777Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:39.310Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:39.853Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:39.871Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:40.350Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:41.047Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:41.438Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:41.996Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:42.270Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:42.450Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:43.114Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:43.431Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:43.981Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:44.233Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:44.561Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:44.765Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:45.310Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:45.365Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:45.391Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:45.838Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:46.148Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:46.593Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:46.720Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:46.899Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:47.260Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:47.952Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:48.170Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:48.544Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:48.954Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:49.249Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:49.384Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:49.527Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:49.666Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:49.697Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:49.907Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:50.133Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:50.726Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:50.788Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:51.202Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:51.375Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:51.487Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:51.752Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:52.409Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:52.706Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:53.404Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:53.941Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:54.498Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:54.776Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:55.453Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:55.489Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:11:56.218Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:56.364Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:56.992Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:57.359Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:11:57.508Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:11:57.948Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:11:58.567Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:11:59.453Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:11:59.856Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:00.539Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:00.795Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:00.905Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:01.657Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:02.159Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:02.739Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:03.345Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:03.484Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:04.215Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:04.283Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:04.316Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:04.607Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:05.096Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:05.136Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:05.623Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:05.938Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:06.519Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:06.923Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:07.403Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:07.726Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:07.789Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:08.563Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:09.244Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:09.940Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:10.572Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:11.267Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:11.299Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:11.851Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:12.346Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:12.691Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:13.357Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:13.890Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:14.553Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:15.006Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:15.494Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:16.646Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:17.308Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:17.952Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:18.113Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:19.309Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:19.558Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:19.970Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:20.491Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:20.945Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:21.069Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:21.503Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:22.001Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:22.331Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:22.994Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:23.278Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:24.531Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:24.728Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:25.378Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:25.600Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:25.785Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:26.253Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:26.832Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:26.941Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:27.229Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:27.446Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:27.605Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:28.206Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:29.538Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:30.085Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:30.125Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:30.413Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:30.917Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:31.339Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:32.216Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:32.655Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:32.751Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:33.117Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:33.596Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:34.150Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:34.553Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:34.655Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:35.228Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:35.743Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:35.803Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:36.036Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:36.167Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:37.426Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:37.865Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"info","message":"","timestamp":"2013-03-12T18:12:38.417Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:38.494Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:38.870Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:39.436Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:40.482Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:12:41.034Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:41.081Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:41.719Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:42.244Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:42.692Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:43.049Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:44.893Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:45.722Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:45.901Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:46.071Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:46.535Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:47.559Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:48.603Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:48.646Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:48.813Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:49.316Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:49.465Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:50.482Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:51.119Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:51.848Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:53.116Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:53.790Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:53.842Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:54.938Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:55.951Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:56.621Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:56.625Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:57.287Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:57.627Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:57.847Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:58.025Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:12:58.471Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:59.446Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:12:59.496Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:12:59.738Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:00.805Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:02.213Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:02.896Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:03.284Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:03.948Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:04.536Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:04.991Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:05.640Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:05.993Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:06.232Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:06.419Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:06.434Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:07.037Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:07.637Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:07.950Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:07.967Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:08.313Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:09.057Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:10.049Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:10.237Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:10.862Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:11.560Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:12.204Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:15.143Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:15.497Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:15.769Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:15.789Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:17.131Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:17.726Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:18.027Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:18.325Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:18.843Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:19.453Z"}
+{"complex":[1,4,6],"obj":"My Thing","level":"info","message":"Hello World","timestamp":"2013-03-12T18:13:19.960Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"warn","message":"","timestamp":"2013-03-12T18:13:20.301Z"}
+{"level":"warn","message":"This is a test warning message flying by","timestamp":"2013-03-12T18:13:20.553Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:20.844Z"}
+{"level":"warn","message":"This is a test warning message flying by","timestamp":"2013-03-12T18:13:21.095Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:21.708Z"}
+{"level":"warn","message":"This is a test warning message flying by","timestamp":"2013-03-12T18:13:21.715Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"warn","message":"","timestamp":"2013-03-12T18:13:22.312Z"}
+{"level":"warn","message":"This is a test warning message flying by","timestamp":"2013-03-12T18:13:22.795Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:23.063Z"}
+{"status":404,"error":"Page could not be found","level":"error","message":"A piece of code went wrong we need a massive multi-line stack trace","timestamp":"2013-03-12T18:13:23.331Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"warn","message":"","timestamp":"2013-03-12T18:13:23.607Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:24.228Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:24.645Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:25.273Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:25.587Z"}
+{"name":{"first":"stu","last":"doe"},"ids":[1,2,4,7],"email":"stu@doe.com","level":"warn","message":"","timestamp":"2013-03-12T18:13:26.203Z"}
+{"level":"debug","message":"SELECT * FROM passwords_table WHERE security=0","timestamp":"2013-03-12T18:13:26.722Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:27.099Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:27.678Z"}
+{"level":"info","message":"User Data logged with ID","timestamp":"2013-03-12T18:13:27.864Z"}
