@@ -29,6 +29,7 @@ class LogLine
   @label_map =
     error: "important"
     debug: "info"
+    warn: "warning"
 
   constructor: (@line, @filters)->
     @active_filter = @filters.active_filter
@@ -37,7 +38,7 @@ class LogLine
     @line_class  = ""
 
   highlight_type: () =>
-    @line = @line.replace  /(DEBUG|WARNING|INFO|ERROR)/i, ( match, group1 ) ->
+    @line = @line.replace  /(DEBUG|WARNING|WARN|INFO|ERROR)/i, ( match, group1 ) ->
       label = group1.toLowerCase()
       label = LogLine.label_map[label] or label
       return "<strong class='label label-"+label+"'>"+match+"</strong>"

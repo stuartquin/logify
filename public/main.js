@@ -39,7 +39,8 @@
 
     LogLine.label_map = {
       error: "important",
-      debug: "info"
+      debug: "info",
+      warn: "warning"
     };
 
     function LogLine(line, filters) {
@@ -62,7 +63,7 @@
     }
 
     LogLine.prototype.highlight_type = function() {
-      return this.line = this.line.replace(/(DEBUG|WARNING|INFO|ERROR)/i, function(match, group1) {
+      return this.line = this.line.replace(/(DEBUG|WARNING|WARN|INFO|ERROR)/i, function(match, group1) {
         var label;
         label = group1.toLowerCase();
         label = LogLine.label_map[label] || label;
