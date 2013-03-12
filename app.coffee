@@ -3,13 +3,13 @@ app      = express()
 server   = require('http').createServer(app)
 io       = require('socket.io').listen(server)
 spawn    = require('child_process').spawn
-{ Tail } = require "tail"
+{Tail}   = require "tail"
+{ArgumentParser} = require "argparse"
+{SessionSocket}  = require "./lib/session"
+{Index}          = require "./routes/index"
 
 io.configure () =>
   io.set "log level", 1
-
-{ SessionSocket } = require "./lib/session"
-{ Index }         = require "./routes/index"
 
 class exports.App
   constructor: (@app) ->
@@ -27,14 +27,44 @@ class exports.App
 
     @app.get  "/", index.render
 
+parser = new ArgumentParser()
+parser.addArgument(
+    ["-f", "--file"],
+    {
+        help: "File to be tailed",
+        required: true
+    }
+)
+
+parser.addArgument(
+    ["-H", "--handler"],
+    {
+        help: "Specify a log format handler",
+        defaultValue: "logfile"
+    }
+)
+
+parser.addArgument(
+    ["-p", "--port"],
+    {
+        help: "Port number for service",
+        defaultValue: 8080
+    }
+)
+
+args = parser.parseArgs()
+
+{Handler} = require "./handlers/#{args.handler}"
+handler = new Handler()
+
 main_socket = null
-filename = process.argv[2]
+filename = args.file
 tail     = spawn "tail", ["-f", filename]
 
 tail.stdout.on 'data', (data) ->
-  io.sockets.emit 'log', data.toString('utf8')
+  io.sockets.emit 'log', handler.parse data.toString('utf8')
 
-port = process.argv[3] or 8080
+port = args.port
 app = new exports.App(app)
 server.listen port
 

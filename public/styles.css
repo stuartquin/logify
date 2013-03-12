@@ -37,10 +37,6 @@ body {
     width:     100%;
 }
 
-.filtered {
-    font-size: 1.1em;
-}
-
 .buttons {
     margin-left: 5px;
 }
@@ -58,5 +54,5 @@ pre {
 }
 
 .muted-line {
-    opacity: 0.5;
+    display:none;
 }
