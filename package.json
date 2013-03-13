@@ -16,7 +16,9 @@
     "express": "3.0.0rc2",
     "tail": "0.2.4",
     "ejs": "0.8.3",
-    "underscore": "~1.1.7"
+    "underscore": "~1.1.7",
+    "winston": "0.6.2",
+    "argparse": "0.1.12"
   },
   "keywords": [
     "Logs",
